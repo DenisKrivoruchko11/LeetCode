@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+main.cpp
+main.py
+progress/
+progress/
